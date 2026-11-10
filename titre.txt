@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Titre : Version A
+
+Titre Version B
+>>>>>>> feature/titre-final
